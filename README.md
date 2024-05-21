@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://images.app.goo.gl/ayK2jWKgZf1WVw9N9" alt="Logo" width="80" height="80">
+  <img src="https://github.com/MyFreds/TicTacToe/blob/main/icon.png" alt="Logo" width="80" height="80">
   <h3>TicTacToe</h3>
   <p align="center">
     Adding TicTacToe game to PocketMine-MP server 
