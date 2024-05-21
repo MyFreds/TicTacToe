@@ -16,11 +16,11 @@
 
 # 📌 TODO
 
-[X] Support EconomyAPI/BedrockEconomy
-[ ] Added a system of reducing money from losing players
-[ ] Added message edit system in config.yml
-[ ] Added a system that if within a few minutes there is no movement from the opponent then the game will automatically stop
-[ ] Added TicTacToe leaderboard
+- [X] Support EconomyAPI/BedrockEconomy
+- [ ] Added a system of reducing money from losing players
+- [ ] Added message edit system in config.yml
+- [ ] Added a system that if within a few minutes there is no movement from the opponent then the game will automatically stop
+- [ ] Added TicTacToe leaderboard
 
 # 🔁 Installation
 
