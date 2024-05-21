@@ -1,0 +1,15 @@
+name: TicTacToe
+api: 5.0.0
+main: TicTacToe\Main
+version: 1.0.0
+author: Fred
+
+commands:
+  tictactoe:
+    permission: tictactoe.cmd
+    usage: "/ttt (help|start|list|end|join <playerName>)"
+    aliases: ["ttt"]
+    
+permissions:
+  tictactoe.cmd:
+    default: true
